@@ -1,0 +1,7 @@
+I. AVERTISSEMENT 
+------------------------------------------------------------------------------------------------------------
+Cette version est une alpha.
+
+Il s'agit du support pour les projets Xamarin.Forms (une dépendance à Xamarin.Forms est donc présente), si votre PCL n'est pas prévue pour Xamarin.Forms vous pouvez supprimer ce package.
+
+Ce package ne fonctionne pas pour les versions Xamarin Native Android et iOS

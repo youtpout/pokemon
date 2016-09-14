@@ -1,0 +1,26 @@
+I. AVERTISSEMENT 
+------------------------------------------------------------------------------------------------------------
+Cette version est une preview.
+
+Pour le moment sur un projet Windows 8.1 UAP ou un projet Windows 10 UWP 2 dll s'installent :
+
+- Navegar.UAP.Win81
+- Navegar.UWP.Win10
+
+Il faut supprimer la dll ne correspondant pas à la version du framework que vous ciblez.
+
+
+
+II. UTILISATION
+------------------------------------------------------------------------------------------------------------
+Voici un tutoriel en 3 parties permettant d'insérer et d'utiliser Navegar dans un projet UWP Windows 10:
+
+1.) Installation et paramétrage
+
+http://blog.kopigi.fr/index.php?article10/01-installer-et-parametrer-navegar
+
+2.) Navigation
+http://blog.kopigi.fr/index.php?article14/02-maintenant-navigons
+
+3.) Fonctions avancées
+http://blog.kopigi.fr/index.php?article15/03-fonctionnalites-avancees
